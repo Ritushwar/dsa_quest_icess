@@ -10,23 +10,23 @@ Input Format
 
 The first line contains a non-empty string, that contains only lowercase English letters — the user name. This string contains at most 100 letters.
 
-Constraints
+Constraints  <br>
 
 -
 
-Output Format
+Output Format  <br>
 
 If it is a female by 'Parity' method, print "CHAT WITH HER!" (without the quotes), otherwise, print "IGNORE HIM!" (without the quotes).
 
-Sample Input 0
+Sample Input 0  <br>
 
-wjmzbmr
-Sample Output 0
+wjmzbmr <br>
+Sample Output 0 <br>
 
-CHAT WITH HER!
-Sample Input 1
+CHAT WITH HER!  <br>
+Sample Input 1  <br>
 
-xiaodao
-Sample Output 1
+xiaodao   <br>
+Sample Output 1  <br>
 
-IGNORE HIM!
+IGNORE HIM!   <br>
